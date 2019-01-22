@@ -1,2 +1,3 @@
-# macro_data
-Intro to working with macroeconomic data
+# Macro Data
+
+Intro to working with macroeconomic data.
