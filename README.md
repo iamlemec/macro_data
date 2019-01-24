@@ -4,7 +4,7 @@ To use Jupyter (Python) notebooks in the cloud, your options are:
 - [Microsoft Azure Notebooks](https://notebooks.azure.com/): there is an option to import directly from a GitHub repository, for which you can simply use this URL.
 - [Google Colaboratory](https://colab.research.google.com/): this requires you to upload data manually, so it is somewhat less useful than the above.
 
-If you'd like to install Python and Jupyter locally, I would suggest using the [Anaconda](https://www.anaconda.com/) distribution, which is quite stable and supports all major platforms. After installing it, run either the Jupyter Notebook or JupyterLab. Finally, download the files in the repository and open the desired notebook.
+Alternatively, if you'd like to install Python and Jupyter on your computer, I would suggest using the [Anaconda](https://www.anaconda.com/) distribution, which is quite stable and supports all major platforms. After installing it, run either the Jupyter Notebook or JupyterLab. Finally, download the files in the repository and open the desired notebook.
 
 ## Notebooks
 
