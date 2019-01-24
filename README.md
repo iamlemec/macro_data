@@ -19,3 +19,4 @@ Your best bet for many types of data is [FRED](https://fred.stlouisfed.org/). Ch
 - `mpd2018.xlsx`: Maddison Project full country data
 - `mpd2018_region_data.xlsx`: Maddison Project regional data
 - `pwt90.xlsx`: Penn World Tables (9.0) full country data
+- `world_bank_gini.xls`: World Bank inquality data (Gini coefficient)
