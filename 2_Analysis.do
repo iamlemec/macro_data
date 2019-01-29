@@ -48,3 +48,10 @@ reshape wide rgdpna avh , i(year) j(countrycode) string
 
 // plot hours worked for a sample of countries
 line avhUSA avhFRA avhKOR avhBRA year
+
+// calculate the average hours across countries by year (need to sort first)
+sort year
+by year: egen mean_avh = mean(avh)
+
+// plot this newly generated data
+line mean_avh year if countrycode == "USA"
