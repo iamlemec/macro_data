@@ -6,11 +6,14 @@ To use Jupyter (Python) notebooks in the cloud, your options are:
 
 Alternatively, if you'd like to install Python and Jupyter on your computer, I would suggest using the [Anaconda](https://www.anaconda.com/) distribution, which is quite stable and supports all major platforms. After installing it, run either the Jupyter Notebook or JupyterLab. Finally, download the files in the repository and open the desired notebook.
 
+You can get Stata from Pitt software download, and installation should be relatively painless.
+
 ## Notebooks
 
-For now we have two notebooks:
-- `1_Introduction.ipynb`: this covers loading in, reshaping, and plotting single data series and panel data.
-- `2_Analysis.ipynb`: this covers panel data with multiple series, as well as advanced visualization.
+For now we have three mini lessons, each implemented in Python (`.ipynb`) and Stata (`.do`):
+- `1_Introduction`: loading in, reshaping, and plotting single data series and panel data.
+- `2_Analysis`: panel data with multiple series, as well as advanced visualization.
+- `3_Merging_Data`: merging together two different datasets by country and year.
 
 ## Data
 
