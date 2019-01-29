@@ -10,7 +10,7 @@ You can get Stata from the Pitt software download service, and installation shou
 
 ## Notebooks
 
-For now we have three mini lessons, each implemented in Python (`.ipynb`) and Stata (`.do`):
+For now we have three mini lessons, each implemented in Python/Jupyter (`.ipynb`) and Stata (`.do`):
 - `1_Introduction`: loading in, reshaping, and plotting single data series and panel data.
 - `2_Analysis`: panel data with multiple series, as well as advanced visualization.
 - `3_Merging_Data`: merging together two different datasets by country and year.
