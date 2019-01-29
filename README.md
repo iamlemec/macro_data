@@ -6,7 +6,7 @@ To use Jupyter (Python) notebooks in the cloud, your options are:
 
 Alternatively, if you'd like to install Python and Jupyter on your computer, I would suggest using the [Anaconda](https://www.anaconda.com/) distribution, which is quite stable and supports all major platforms. After installing it, run either the Jupyter Notebook or JupyterLab. Finally, download the files in the repository and open the desired notebook.
 
-You can get Stata from Pitt software download, and installation should be relatively painless.
+You can get Stata from the Pitt software download service, and installation should be relatively painless.
 
 ## Notebooks
 
