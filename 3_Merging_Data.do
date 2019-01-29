@@ -25,7 +25,7 @@ keep countrycode year rgdpna pop
 merge 1:1 countrycode year using stata/world_bank_gini
 
 /////////////////////////////////////////////
-// STEP 2: Plot some interesting variables //
+// STEP 3: Plot some interesting variables //
 /////////////////////////////////////////////
 
 // plot relationship between average income and inequality
