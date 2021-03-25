@@ -16,7 +16,7 @@ clear
 /////////////////////////////////////////////
 
 // load in PWT data
-import excel using "data/pwt90.xlsx", sheet(Data) firstrow
+import excel using "data/pwt100.xlsx", sheet(Data) firstrow
 
 // keep only a few variables
 keep countrycode year rgdpna pop

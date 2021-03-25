@@ -38,7 +38,7 @@ scatter gpop lcgdppc if gpop > -3 & gpop < 6
 //////////////////////////////////////////////
 
 // load in PWT data
-import excel using "data/pwt90.xlsx", sheet(Data) firstrow
+import excel using "data/pwt100.xlsx", sheet(Data) firstrow
 
 // keep only variables of interest (opposite of drop)
 keep countrycode year rgdpna avh
