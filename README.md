@@ -1,10 +1,11 @@
 ## Getting Set Up
 
 To use Jupyter (Python) notebooks in the cloud, your options are:
-- [Microsoft Azure Notebooks](https://notebooks.azure.com/): there is an option to import directly from a GitHub repository, for which you can simply use this URL.
-- [Google Colaboratory](https://colab.research.google.com/): this requires you to upload data manually, so it is somewhat less useful than the above.
+- [Google Colab](https://colab.research.google.com/): this is pretty robust and has been around for a while. It's integrated with Google Drive and has the option of upgrading to better hardware.
+- [Kaggle Kernels](https://www.kaggle.com/kernels): similar to Google Colab, and allows you to pull in pre-arranged data sources.
+- [Deepnote](https://deepnote.com): this is relatively new but has a very slick interface. Seems to work well from my limited testing, and it's easy to upload arbitrary files.
 
-Alternatively, if you'd like to install Python and Jupyter on your computer, I would suggest using the [Anaconda](https://www.anaconda.com/) distribution, which is quite stable and supports all major platforms. After installing it, run either the Jupyter Notebook or JupyterLab. Finally, download the files in the repository and open the desired notebook.
+Alternatively, if you'd like to install Python and Jupyter on your computer, you can either use "pure" Python or the slightly more user-friendly Anaconda. To get pure Python go to: https://www.python.org/downloads. To get Anaconda, download Miniconda at: https://docs.conda.io/en/latest/miniconda.html.
 
 You can get Stata from the Pitt software download service, and installation should be relatively painless.
 
