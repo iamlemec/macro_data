@@ -20,7 +20,10 @@ For now we have three mini lessons, each implemented in Python/Jupyter (`.ipynb`
 
 Your best bet for many types of data is [FRED](https://fred.stlouisfed.org/). Check it out! Here's what's in the `data` directory:
 - `GDPCA.xls`: Annual Real GDP for the US (FRED)
-- `mpd2018.xlsx`: Maddison Project full country data
+- `mpd2018.xlsx`: [Maddison Project][madison] full country data
 - `mpd2018_region_data.xlsx`: Maddison Project regional data
-- `pwt100.xlsx`: Penn World Tables (9.0) full country data
+- `pwt100.xlsx`: [Penn World Tables][penn] (9.0) full country data
 - `world_bank_gini.xls`: World Bank inequality data (Gini coefficient)
+
+[madison]: https://www.rug.nl/ggdc/historicaldevelopment/maddison/
+[penn]: https://www.rug.nl/ggdc/productivity/pwt/?lang=en
